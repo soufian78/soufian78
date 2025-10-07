@@ -1,4 +1,5 @@
 # Hi there, I'm Soufian kabny! 👋
+I'm soufian, a Front-end developer
 <!--
 **soufian78/soufian78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

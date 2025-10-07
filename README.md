@@ -1,5 +1,4 @@
-kdzokd
-
+# Hi there, I'm Soufian kabny! 👋
 <!--
 **soufian78/soufian78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
